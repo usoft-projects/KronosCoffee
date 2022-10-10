@@ -1,0 +1,604 @@
+{
+  "Sıcak Kahveler": [
+    {
+      "details": "Latte",
+      "image": "",
+      "name": "Latte",
+      "price": 32
+    },
+    {
+      "details": "Vanilyalı Latte",
+      "image": "",
+      "name": "Vanilyalı Latte",
+      "price": 33
+    },
+    {
+      "details": "Latte Mocchiato",
+      "image": "",
+      "name": "Latte Mocchiato",
+      "price": 30
+    },
+    {
+      "details": "Caramel Latte",
+      "image": "",
+      "name": "Caramel Latte",
+      "price": 31
+    },
+    {
+      "details": "Cappuccino",
+      "image": "",
+      "name": "Cappuccino",
+      "price": 30
+    },
+    {
+      "details": "Espersso",
+      "image": "",
+      "name": "Espersso",
+      "price": 25
+    },
+    {
+      "details": "Double Espresso",
+      "image": "",
+      "name": "Double Espresso",
+      "price": 27
+    },
+    {
+      "details": "Americano",
+      "image": "",
+      "name": "Americano",
+      "price": 25
+    },
+    {
+      "details": "Flat White",
+      "image": "",
+      "name": "Flat White",
+      "price": 27
+    },
+    {
+      "details": "Moca",
+      "image": "",
+      "name": "Moca",
+      "price": 31
+    },
+    {
+      "details": "Coockie Chocolatte Moca",
+      "image": "",
+      "name": "Coockie Chocolatte Moca",
+      "price": 32
+    },
+    {
+      "details": "White Chocolatte Moca",
+      "image": "",
+      "name": "White Chocolatte Moca",
+      "price": 32
+    },
+    {
+      "details": "Filtre",
+      "image": "",
+      "name": "Filtre",
+      "price": 25
+    },
+    {
+      "details": "Türk Kahvesi",
+      "image": "",
+      "name": "Türk Kahvesi",
+      "price": 17
+    },
+    {
+      "details": "Dibek Kahve",
+      "image": "",
+      "name": "Dibek Kahve",
+      "price": 27
+    },
+    {
+      "details": "Sahlep",
+      "image": "",
+      "name": "Sahlep",
+      "price": 32
+    },
+    {
+      "details": "Sıcak Çikolata",
+      "image": "",
+      "name": "Sıcak Çikolata",
+      "price": 30
+    },
+    {
+      "details": "Nescafe",
+      "image": "",
+      "name": "Nescafe",
+      "price": 30
+    },
+    {
+      "details": "Coockie Aromalı Latte",
+      "image": "",
+      "name": "Coockie Aromalı Latte",
+      "price": 32
+    },
+    {
+      "details": "Chocolate Coockie",
+      "image": "",
+      "name": "Chocolate Coockie",
+      "price": 32
+    },
+    {
+      "details": "Cici Latte",
+      "image": "",
+      "name": "Cici Latte",
+      "price": 32
+    },
+    {
+      "details": "Special",
+      "image": "",
+      "name": "Special",
+      "price": 32
+    },
+    {
+      "details": "Ekstra Süt",
+      "image": "",
+      "name": "Ekstra Süt",
+      "price": 4
+    },
+    {
+      "details": "Ekstra Şurup",
+      "image": "",
+      "name": "Ekstra Şurup",
+      "price": 4
+    } 
+  ],
+  "Soğuk Kahveler": [
+    {
+      "details": "Ice Latte",
+      "image": "",
+      "name": "Ice Latte",
+      "price": 33
+    },
+    {
+      "details": "Ice Americano",
+      "image": "",
+      "name": "Ice Americano",
+      "price": 27
+    },
+    {
+      "details": "Ice Filtre",
+      "image": "",
+      "name": "Ice Filtre",
+      "price": 27
+    },
+    {
+      "details": "Ice Soda Americano",
+      "image": "",
+      "name": "Ice Soda Americano",
+      "price": 33
+    },
+    {
+      "details": "Ice White Chocolate Mocha",
+      "image": "",
+      "name": "Ice White Chocolate Mocha",
+      "price": 37
+    },
+    {
+      "details": "Ice Dark Chocolate Mocha",
+      "image": "",
+      "name": "Ice Dark Chocolate Mocha",
+      "price": 37
+    },
+    {
+      "details": "Ice Caramel Macchiato",
+      "image": "",
+      "name": "Ice Caramel Macchiato",
+      "price": 27
+    },
+    {
+      "details": "Ice Caramel Latte",
+      "image": "",
+      "name": "Ice Caramel Latte",
+      "price": 37
+    },
+    {
+      "details": "Ice Special",
+      "image": "",
+      "name": "Ice Special",
+      "price": 37
+    }
+  ],
+  "Frozen": [
+    {
+      "details": "Karadut",
+      "image": "",
+      "name": "Karadut",
+      "price": 33
+    },
+    {
+      "details": "Böğürtlen",
+      "image": "",
+      "name": "Böğürtlen",
+      "price": 33
+    },
+    {
+      "details": "Mango",
+      "image": "",
+      "name": "Mango",
+      "price": 33
+    },
+    {
+      "details": "Yaban Mersini",
+      "image": "",
+      "name": "Yaban Mersini",
+      "price": 33
+    },
+    {
+      "details": "Şeftali",
+      "image": "",
+      "name": "Şeftali",
+      "price": 33
+    },
+    {
+      "details": "Kavun",
+      "image": "",
+      "name": "Kavun",
+      "price": 33
+    },
+    {
+      "details": "Karpuz",
+      "image": "",
+      "name": "Karpuz",
+      "price": 33
+    },
+    {
+      "details": "Frambuaz",
+      "image": "",
+      "name": "Frambuaz",
+      "price": 33
+    }
+  ],
+  "Milkshake": [
+    {
+      "details": "Karadut",
+      "image": "",
+      "name": "Karadut",
+      "price": 33
+    },
+    {
+      "details": "Böğürtlen",
+      "image": "",
+      "name": "Böğürtlen",
+      "price": 33
+    },
+    {
+      "details": "Mango",
+      "image": "",
+      "name": "Mango",
+      "price": 33
+    },
+    {
+      "details": "Yaban Mersini",
+      "image": "",
+      "name": "Yaban Mersini",
+      "price": 33
+    },
+    {
+      "details": "Şeftali",
+      "image": "",
+      "name": "Şeftali",
+      "price": 33
+    },
+    {
+      "details": "Kavun",
+      "image": "",
+      "name": "Kavun",
+      "price": 33
+    },
+    {
+      "details": "Karpuz",
+      "image": "",
+      "name": "Karpuz",
+      "price": 33
+    },
+    {
+      "details": "Frambuaz",
+      "image": "",
+      "name": "Frambuaz",
+      "price": 33
+    }
+  ],
+  "Kahvaltılar": [
+    {
+      "details": "Kahvltı Tabağı",
+      "image": "",
+      "name": "Kahvltı Tabağı",
+      "price": 75
+    },
+    {
+      "details": "Sahanda Sucuk",
+      "image": "",
+      "name": "Sahanda Sucuk",
+      "price": 47
+    },
+    {
+      "details": "Sahanda Yumurta",
+      "image": "",
+      "name": "Sahanda Yumurta",
+      "price": 35
+    },
+    {
+      "details": "Sahanda Sucuklu Yumurta",
+      "image": "",
+      "name": "Sahanda Sucuklu Yumurta",
+      "price": 55
+    },
+    {
+      "details": "Söğüş Tabağı",
+      "image": "",
+      "name": "Söğüş Tabağı",
+      "price": 33
+    },
+    {
+      "details": "Konfleks -Yulaf",
+      "image": "",
+      "name": "Konfleks -Yulaf",
+      "price": 33
+    },
+    {
+      "details": "Konfleks Kakolu Toplar",
+      "image": "",
+      "name": "Konfleks Kakolu Toplar",
+      "price": 33
+    },
+    {
+      "details": "Beyaz Peynirli Omlet",
+      "image": "",
+      "name": "Beyaz Peynirli Omlet",
+      "price": 45
+    },
+    {
+      "details": "Patatesli Omlet",
+      "image": "",
+      "name": "Patatesli Omlet",
+      "price": 45
+    },
+    {
+      "details": "Sade Omlet",
+      "image": "",
+      "name": "Sade Omlet",
+      "price": 45
+    },
+    {
+      "details": "Kaşarlı Omlet",
+      "image": "",
+      "name": "Kaşarlı Omlet",
+      "price": 47
+    },
+    {
+      "details": "Gözleme",
+      "image": "",
+      "name": "Gözleme",
+      "price": 60
+    }
+  ],
+  "Tostlar": [
+    {
+      "details": "Kaşarlı Tost",
+      "image": "",
+      "name": "Kaşarlı Tost",
+      "price": 30
+    },
+    {
+      "details": "Karşık Tost",
+      "image": "",
+      "name": "Karışık Tost",
+      "price": 35
+    },
+    {
+      "details": "Beyaz Peynirli Domates Tost",
+      "image": "",
+      "name": "Beyaz Peynirli Domates Tost",
+      "price": 35
+    },
+    {
+      "details": "Ayvalık Tost",
+      "image": "",
+      "name": "Ayvalık Tost",
+      "price": 37
+    }
+  ],
+  "Salatalar": [
+    {
+      "details": "Sezar Salata",
+      "image": "",
+      "name": "Sezar Salata",
+      "price": 33
+    },
+    {
+      "details": "Ton Balıklı Salata",
+      "image": "",
+      "name": "Ton Balıklı Salata",
+      "price": 33
+    },
+    {
+      "details": "Akdeniz Salata",
+      "image": "",
+      "name": "Akdeniz Salata",
+      "price": 33
+    },
+    {
+      "details": "Kronos Salata",
+      "image": "",
+      "name": "Kronos Salata",
+      "price": 33
+    }
+  ],
+  "Tatlılar": [
+    {
+      "details": "Cheesecake Limon",
+      "image": "",
+      "name": "Cheesecake Limon",
+      "price": 37
+    },
+    {
+      "details": "Cheesecake Frambuaz",
+      "image": "",
+      "name": "Cheesecake Frambuaz",
+      "price": 37
+    },
+    {
+      "details": "San Sebastian",
+      "image": "",
+      "name": "San Sebastian",
+      "price": 37
+    },
+    {
+      "details": "Marlenka Fıstıklı",
+      "image": "",
+      "name": "Marlenka Fıstıklı",
+      "price": 38
+    },
+    {
+      "details": "Belçika Çikolata Brownie",
+      "image": "",
+      "name": "Belçika Çikolata Brownie",
+      "price": 43
+    }
+  ],
+  "Çaylar": [
+    {
+      "details": "Sessiz Sakinlik",
+      "image": "",
+      "name": "Sessiz Sakinlik",
+      "price": 28
+    },
+    {
+      "details": "Hibiskus",
+      "image": "",
+      "name": "Hibiskus",
+      "price": 28
+    },
+    {
+      "details": "Kış Çayı",
+      "image": "",
+      "name": "Kış Çayı",
+      "price": 28
+    },
+    {
+      "details": "Kırmızı Orman Meyveli",
+      "image": "",
+      "name": "Kırmızı Orman Meyveli",
+      "price": 28
+    },
+    {
+      "details": "Kuşburnu",
+      "image": "",
+      "name": "Kuşburnu",
+      "price": 28
+    },
+    {
+      "details": "Ada Çayı",
+      "image": "",
+      "name": "Ada Çayı",
+      "price": 28
+    },
+    {
+      "details": "Nane Limon",
+      "image": "",
+      "name": "Nane Limon",
+      "price": 28
+    },
+    {
+      "details": "Mavi Kelebek",
+      "image": "",
+      "name": "Mavi Kelebek",
+      "price": 28
+    },
+    {
+      "details": "Yeşil Çay",
+      "image": "",
+      "name": "Yeşil Çay",
+      "price": 28
+    },
+    {
+      "details": "Papatya Çay",
+      "image": "",
+      "name": "Papatya Çay",
+      "price": 28
+    },
+    {
+      "details": "Chocolate Mint Rooibos",
+      "image": "",
+      "name": "Chocolate Mint Rooibos",
+      "price": 28
+    },
+    {
+      "details": "Çay",
+      "image": "",
+      "name": "Çay",
+      "price": 10
+    },
+    {
+      "details": "Fincan Çay",
+      "image": "",
+      "name": "Fincan Çay",
+      "price": 13
+    }
+  ],
+  "Soğuk İçecekler": [
+    {
+      "details": "Coca Cola",
+      "image": "",
+      "name": "Coca Cola",
+      "price": 18
+    },
+    {
+      "details": "Fuse Tea Şeftali",
+      "image": "",
+      "name": "Fuse Tea Şeftali",
+      "price": 18
+    },
+    {
+      "details": "Fuse Tea Limon",
+      "image": "",
+      "name": "Fuse Tea Limon",
+      "price": 18
+    },
+    {
+      "details": "Cappy Şeftali",
+      "image": "",
+      "name": "Cappy Şeftali",
+      "price": 17
+    },
+    {
+      "details": "Cappy Portakal",
+      "image": "",
+      "name": "Cappy Potakal",
+      "price": 17
+    },
+    {
+      "details": "Cappy Karışık",
+      "image": "",
+      "name": "Cappy Karışık",
+      "price": 17
+    },
+    {
+      "details": "Soda",
+      "image": "",
+      "name": "Soda",
+      "price": 10
+    },
+    {
+      "details": "Meyveli Soda",
+      "image": "",
+      "name": "Meyveli Soda",
+      "price": 12
+    },
+    {
+      "details": "Su",
+      "image": "",
+      "name": "Su",
+      "price": 8
+    },
+    {
+      "details": "Cool Lime",
+      "image": "",
+      "name": "Cool Lime",
+      "price": 33
+    }
+  ]
+}
